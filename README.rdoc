@@ -8,4 +8,4 @@ Usage:
 
 @records.to_csv
 
-Copyright © 2009 Eli Mayost, released under the MIT license
+Copyright 2009 Eli Mayost, released under the MIT license
