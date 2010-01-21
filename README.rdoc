@@ -1,8 +1,9 @@
-= CSVify
+= csvify
 
 Rails gem for adding a to_csv (similar to to_xml method) method to Array class for Active Record results.
 
 Usage:
 
 @records = Record.all
+
 @records.to_csv
