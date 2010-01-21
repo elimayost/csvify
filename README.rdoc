@@ -5,4 +5,4 @@ Rails gem for adding a to_csv (similar to to_xml method) method to Array class f
 Usage:
 
 @records = Record.all
-@
+@records.to_csv
