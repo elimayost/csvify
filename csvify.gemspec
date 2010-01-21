@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.date = %q{2010-01-21}
   s.description = %q{Add a to_csv (similar to to_xml method) method to Array class for Active Record results}
   s.email = %q{eli.mayost@googlemail.com}
-  s.extra_rdoc_files = ["README.rdoc", "lib/csvify.rb"]
-  s.files = ["README.rdoc", "Rakefile", "lib/csvify.rb", "Manifest", "csvify.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/csvify.rb"]
+  s.files = ["CHANGELOG", "Manifest", "README.rdoc", "Rakefile", "csvify.gemspec", "lib/csvify.rb"]
   s.homepage = %q{http://github.com/elimayost/csvify}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Csvify", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
